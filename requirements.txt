@@ -1,0 +1,5 @@
+pymorphy2 >= 0.8, < 1
+bs4 >= 0.0.1, < 1
+requests >= 2.18, < 3
+dateparser >= 0.7.0
+prettytable >= 0.7.2, < 1
